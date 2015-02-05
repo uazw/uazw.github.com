@@ -12,13 +12,13 @@ desc: 个人博客
 custom:
     category:
         default: Default Category
-        schema_less: Schema-Less
+        schema: 模式
     categories:
       - name:  default
         title: Default Category
 
-      - name:  schema_less
-        title: Schema-Less
+      - name:  schema
+        title: 模式
 
     scrollingLoadCount: 2                          # 滚屏自动加载文章数量，“0”为关闭
 
