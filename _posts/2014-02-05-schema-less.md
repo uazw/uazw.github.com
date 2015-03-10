@@ -4,11 +4,11 @@ title: Schema-Less
 category: schema
 ---
 
-本文的目标是讲述我对schemaless的理解，主要讲如下3个内容:
+本文的目标是讲述我对非结构化的理解，主要讲如下3个内容:
 
-* 什么是schemaless和传统的对比
-* schemaless有哪些形式
-* schemaless优缺点
+* 什么是非结构化和结构化的对比
+* 非结构化有哪些形式
+* 非结构化优缺点
 
 ###定义
 一般认为schemaless是指在一集合内， 集合中各个元素的元数据不一定相同.  
