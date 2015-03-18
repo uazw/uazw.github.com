@@ -14,6 +14,7 @@ custom:
         default: Default Category
         schema: 模式
         web_crawler: 爬虫
+        orm: orm
     categories:
       - name:  default
         title: Default Category
@@ -23,6 +24,9 @@ custom:
 
       - name:  web_crawler
         title: 爬虫
+
+      - name:  orm
+        title: orm
 
     scrollingLoadCount: 2                          # 滚屏自动加载文章数量，“0”为关闭
 
