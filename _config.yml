@@ -17,6 +17,8 @@ custom:
         orm: orm
         interface: interface
         Generic: Generic
+        summary: 总结
+
     categories:
       - name:  default
         title: Default Category
@@ -35,6 +37,11 @@ custom:
       
       - name:  Generic
         title: Generic
+
+      - name: summary
+        title: 总结
+
+
 
     scrollingLoadCount: 2                          # 滚屏自动加载文章数量，“0”为关闭
 
