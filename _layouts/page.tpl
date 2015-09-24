@@ -72,6 +72,10 @@
 			<a href="https://github.com/mytharcher/SimpleGray" target="_blank">SimpleGray</a>
 		</p>
 	</div>
+    <div class ="block block-thank">
+        <h3>friends</h3>
+        <a href="http://plusplus7.com" target="_blank">+7</a>
+    </div>
 </aside>
 
 <script src="http://elfjs.qiniudn.com/code/elf-0.5.0.min.js"></script>
