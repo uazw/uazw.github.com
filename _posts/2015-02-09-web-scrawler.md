@@ -69,16 +69,25 @@ chrome浏览器现在新增了选中某个标签返回XPath、CSSPath的功能�
 如果有任何相关的问题, 工作推荐, 请务必发我邮箱.谢谢~
 
 ###感谢
+
 最后的最后感谢开源，让开发更简单。
 
 [XPath]: "http://www.w3school.com.cn/xpath/index.asp"  
+
 [HttpClient]: "http://mvnrepository.com/artifact/org.apache.httpcomponents/httpclient"  
+
 [Jsoup]: "http://mvnrepository.com/artifact/org.jsoup/jsoup"  
+
 [requests]: "https://github.com/kennethreitz/requests"  
+
 [BeautifulSoup]: "https://github.com/bdoms/beautifulsoup"  
+
 [Net::HTTP]: "http://www.ruby-doc.org/stdlib-2.2.0/libdoc/net/http/rdoc/index.html"  
+
 [nokogiri]: "http://www.nokogiri.org/"  
+
 [WebMagic]: "https://github.com/code4craft/webmagic"  
+
 [Scrapy]: "http://scrapy.org/"
   
 {% include references.md %}
